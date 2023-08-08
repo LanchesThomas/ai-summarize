@@ -13,7 +13,7 @@ const Hero = () => {
                                         type="button"
                                         onClick={() =>
                                                 window.open(
-                                                        'https://github.com/LanchesThomas'
+                                                        'https://github.com/LanchesThomas/ai-summarize'
                                                 )
                                         }
                                         className="black_btn"
